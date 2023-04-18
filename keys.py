@@ -1,0 +1,2 @@
+OPENAI_KEY = ""
+UNSPLASH_API_KEY = ""
